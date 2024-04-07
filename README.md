@@ -2,7 +2,7 @@
 
 Basket Splitter is a Java library that splits items in a customer's basket into delivery groups. The goal is to minimize the number of required deliveries and to create the largest possible delivery groups. 
 My solution provides greedy approach that doesn't guarantee the optimal solution, but it is fast and provides good results in most cases and works way faster
-than the brute force or DP solution even for the large input such as $2^{100}$.
+than the brute force or DP solution for input as big as 100 items.
 
 ## Getting Started
 
